@@ -111,3 +111,4 @@ Deliberately vulnerable versions, so the SCA metrics have known true positives. 
 upgrade them.
 
 <!-- dummy PR 2026-11-25 08:48:20 -->
+<!-- dummy PR 2026-11-25 09:59:17 -->
